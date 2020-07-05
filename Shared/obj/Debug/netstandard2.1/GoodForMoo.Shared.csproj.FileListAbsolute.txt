@@ -1,0 +1,8 @@
+C:\Users\godycnyama\Documents\GoodForMoo\Shared\bin\Debug\netstandard2.1\GoodForMoo.Shared.deps.json
+C:\Users\godycnyama\Documents\GoodForMoo\Shared\bin\Debug\netstandard2.1\GoodForMoo.Shared.dll
+C:\Users\godycnyama\Documents\GoodForMoo\Shared\bin\Debug\netstandard2.1\GoodForMoo.Shared.pdb
+C:\Users\godycnyama\Documents\GoodForMoo\Shared\obj\Debug\netstandard2.1\GoodForMoo.Shared.csprojAssemblyReference.cache
+C:\Users\godycnyama\Documents\GoodForMoo\Shared\obj\Debug\netstandard2.1\GoodForMoo.Shared.AssemblyInfoInputs.cache
+C:\Users\godycnyama\Documents\GoodForMoo\Shared\obj\Debug\netstandard2.1\GoodForMoo.Shared.AssemblyInfo.cs
+C:\Users\godycnyama\Documents\GoodForMoo\Shared\obj\Debug\netstandard2.1\GoodForMoo.Shared.dll
+C:\Users\godycnyama\Documents\GoodForMoo\Shared\obj\Debug\netstandard2.1\GoodForMoo.Shared.pdb

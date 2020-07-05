@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\godycnyama\Documents\GoodForMoo\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/MatBlazor" Path="C:\Users\godycnyama\.nuget\packages\matblazor\2.3.0\build\..\staticwebassets\" />
+</StaticWebAssets>
